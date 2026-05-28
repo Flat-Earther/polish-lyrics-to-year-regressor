@@ -11,6 +11,13 @@ The notebook also includes exploratory analysis, uncertainty estimation, and sim
 
 ---
 
+## Model Weights
+
+Available on Hugging Face:
+https://huggingface.co/Flat-Earther/polish-lyrics-year-regressor
+
+---
+
 ## Project Goal
 
 Given a song lyric, predict the approximate year it was released.
