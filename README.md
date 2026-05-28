@@ -23,6 +23,9 @@ This is formulated as a **regression** problem rather than classification, so th
 
 The notebook uses a Polish subset of the **Genius song lyrics with language information** dataset.
 
+It's avaible on hugging face: 
+https://huggingface.co/datasets/Flat-Earther/piosenki
+
 Main filtering steps:
 
 - keep only Polish lyrics
