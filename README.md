@@ -234,9 +234,3 @@ NLP.ipynb
 - The project is focused on **Polish lyrics**.
 - It is a regression task, so predictions are continuous years rather than discrete classes.
 - The hierarchical model is more expressive, but in this notebook run it was not the best performer.
-
----
-
-## License
-
-Add your preferred license here.
